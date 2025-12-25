@@ -324,3 +324,9 @@ Address = "0x812720cb4639550D7BDb1d8F2be463F4a9663762"
 RPC = "https://rpc.xzbuilder.com/"
 Website = "https://xzbuilder.com/"
 Description = "XZBuilder - Max profit builder for BSC Blockchain"
+
+[trustnet-builder]
+Address = "0x2d3cc0a25a05e6eb3d5d3ea21d72c8d71b436a7f"
+RPC = "https://rpc.teetrust.net/"
+Website = "https://www.teetrust.net"
+Description = "TrustNet - TEE block builder enables encrypted block building "
